@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  name: MyText
+  content: MyText
+  stars: MyText
+
+two:
+  location: MyString
+  name: MyText
+  content: MyText
+  stars: MyText
